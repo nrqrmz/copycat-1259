@@ -1,0 +1,8 @@
+.thumbnails img{
+height: 100px;
+}
+
+.thumbnails {
+  display: flex;
+  justify-content:space-evenly;
+}

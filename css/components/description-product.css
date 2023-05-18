@@ -1,0 +1,11 @@
+.description-product {
+  display: flex;
+  justify-content: space-around;
+}
+
+.information {
+  padding: 24px;
+}
+.description-product img {
+  width: 300px;
+}
